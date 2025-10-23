@@ -1,0 +1,25 @@
+ .hero {
+    background-color: #ff0000;
+   
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 0 5%;
+}
+
+.kolum-1{
+    background-color: rgb(19, 149, 209);
+}
+
+.kolum-2{
+    background-color:   rgb(99, 66, 66);
+}
+
+.hro-3 bu{
+    background-color: #d760c1;
+    color: #f7f7f7;
+     padding: 10px 20px;
+     border-radius: 5px;
+} 
+

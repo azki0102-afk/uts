@@ -1,0 +1,13 @@
+.container{
+    background-color: blue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.kolum-1{
+    background-color: blueviolet;
+}
+.kolum-2{
+    background-color: aqua;
+}
+

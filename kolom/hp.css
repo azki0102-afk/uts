@@ -1,0 +1,32 @@
+.mobile button {
+  background-color: #d760c1;
+  color: #f7f7f7;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+.hend img {
+  width: 100%;
+}
+
+.hend {
+  width: 390px;
+}
+
+.nonitoring button {
+  background-color: #d760c1;
+  color: #f7f7f7;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+.moni img{
+    width: 100%;
+}
+
+.mon{
+    height: 310.06px;
+}
+@media edia {
+    
+}

@@ -1,0 +1,29 @@
+.text-base {
+  text-align: right;
+  text-transform: capitalize;
+}
+
+.text-arab {
+  direction: rtl;
+  text-align: center;
+}
+.text-dec {
+  text-decoration: overline wavy red;
+  text-transform: uppercase;
+}
+.space {
+  
+  text-indent: 70px;
+  letter-spacing: 4px;
+  line-height: 50px;
+  word-spacing: 30px;
+  white-space: break-space;
+}
+.text-over {
+  width: 320px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+
+  text-shadow: 4px 6px 2px rgb(136, 86, 86);
+}

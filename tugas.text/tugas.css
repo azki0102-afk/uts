@@ -1,0 +1,67 @@
+.c {
+  color: rgb(127, 150, 255);
+}
+
+.inn {
+  color: red;
+}
+
+.loi {
+  font-size: 10%;
+}
+
+.kg {
+  text-decoration: underline;
+}
+
+.atas {
+  text-decoration: overline;
+}
+.tengah {
+  text-decoration: line-through;
+}
+.s {
+  color: blue;
+}
+.left {
+  text-align: right;
+  text-transform: capitalize;
+}
+.rata {
+  text-align: center;
+}
+.biru {
+  color: rebeccapurple;
+}
+
+.text-dec {
+  text-transform: uppercase;
+}
+
+.kecil {
+  font-size: 20%;
+}
+.kkk {
+  text-transform: capitalize;
+}
+.spasi {
+  color: blue;
+}
+
+.jarak {
+  letter-spacing: 10px;
+}
+
+.hui {
+  text-indent: 7px;
+  letter-spacing: 4px;
+  line-height: 5px;
+  word-spacing: 3px;
+}
+
+.miring{
+    font-style: italic;
+}
+.tebal{
+ font-weight: bold;
+}

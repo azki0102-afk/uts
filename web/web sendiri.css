@@ -1,0 +1,32 @@
+.I {
+  text-align: right;
+  text-transform: capitalize;
+  color: purple;
+}
+
+
+.text-base {
+  text-align: right;
+
+  text-transform: capitalize;
+  text-decoration: aquamarine;
+
+
+}
+.K{
+  /* background-color: red; */
+    width: 700px;
+    /* height: 96%; */   
+}
+.y{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+.mi{
+  position: relative;
+  top: -93px;
+}
+.LK{
+ 
+}
