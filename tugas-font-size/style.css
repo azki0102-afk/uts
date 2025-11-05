@@ -1,0 +1,16 @@
+
+@font-face{
+    font-family: "oups";
+    src: url(./assets/oups/Oups.otf);
+}
+
+p{
+    font-size: 30px;
+    font-weight: 200px;
+    font-family: "oups";
+    font-style: oblique;
+}
+
+.lol{
+     text-align: right;
+}

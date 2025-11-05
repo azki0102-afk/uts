@@ -1,0 +1,71 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+ 
+  min-height: 100yh;
+  overflow-x: hidden;
+}
+
+header {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  width: 100%;
+  padding: 30px 100px;
+
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 100;
+
+}
+
+.logo {
+  font-size: 2em;
+  color: #359381;
+  margin-right: 270px;
+}
+
+.navigation {
+  display: block;
+}
+#parallax{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100vh;
+
+    overflow: hidden;
+}
+#parallax img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 10%;
+    height: 100%;
+}
+@media (min-width: 391px) {
+  .navigation {
+    display: block;
+  }
+  .navigation a {
+    background-color: purple;
+
+    text-decoration: none;
+    color: #359381;
+    padding: 6px 15px;
+    border-radius: 20px;
+    margin: 0 10px;
+    font-weight: 600;
+  }
+}
+.navigation a:hover,
+.navigation a.active{
+   background: #359381;
+    color: #fff;
+}

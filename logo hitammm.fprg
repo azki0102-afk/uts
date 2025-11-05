@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="logo hitammm"/>
+        <attribute name="authors" value="gita"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-19 08:26:57 AM"/>
+        <attribute name="created" value="Z2l0YTtMQVBUT1AtTEE3VUswRDI7MjAyNS0wOC0xOTswODoxNjozMyBBTTsyNzI5"/>
+        <attribute name="edited" value="Z2l0YTtMQVBUT1AtTEE3VUswRDI7MjAyNS0wOC0xOTswODoyNjo1NyBBTTsxOzI4NDQ="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="kresek1" type="Integer" array="False" size=""/>
+            <declare name="kresek2" type="Integer" array="False" size=""/>
+            <input variable="kresek1"/>
+            <input variable="kresek2"/>
+            <assign variable="kresekhasil" expression="kresek1+kresek2"/>
+            <input variable="kresek1"/>
+        </body>
+    </function>
+</flowgorithm>
