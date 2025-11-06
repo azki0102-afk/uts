@@ -1,0 +1,28 @@
+.n{
+   display: flex;
+   background-color: red;
+   
+   justify-content: space-between;
+}
+
+
+.logo{
+    
+}
+.sa{
+ color: white;
+}
+
+body{
+    background-color: black;
+}
+
+.ho{
+    color: white;
+}
+
+.mesin{
+    display: flex;
+    justify-content: center;
+    right: 30px;
+}

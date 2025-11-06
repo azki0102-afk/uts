@@ -1,0 +1,43 @@
+.warna {
+  background-color: green;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  position: static;
+}
+
+.mm {
+  background-color: yellow;
+}
+
+.nv {
+  background-color: gray;
+  height: 600px;
+  width: 160px;
+}
+
+.lo {
+  background-color: darkgray;
+  width: 300px;
+  height: 300px;
+  flex-direction: row-reverse;
+  justify-content: space-evenly;
+
+  align-items: flex-start;
+  margin-top: 50px;
+
+}
+
+.lolo {
+  position: fixed;
+}
+
+.div{
+    display: flex;
+    justify-content: flex-start;
+    
+}
+
+.mnb{
+       text-align: left;
+}
